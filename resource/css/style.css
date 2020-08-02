@@ -11,6 +11,10 @@ html,body {
     background-size: cover;
 }
 
+h1 {
+    color: purple;
+}
+
 h1,
 h2 {
     color: rgb(70, 50, 255);
@@ -70,3 +74,4 @@ button {
     background-color: #dcdcdb;
     vertical-align: middle;
 }
+
